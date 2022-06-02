@@ -1,5 +1,5 @@
 # haskell-coreutils
-A little project to rewrite all coreutils in Haskell for fun.
+A little project to rewrite all coreutils in Haskell for fun. It also aims to not overcomplicate the programs with arguments and keep them simple.
 
 # Goal
 This is not meant to be serious just for fun.<br>
