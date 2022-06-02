@@ -47,7 +47,7 @@ Some programs are not complete yet but will be in the future.<br>
 - [ ] groups
 - [ ] head
 - [ ] hostid
-- [ ] hostname
+- [x] hostname
 - [ ] id
 - [ ] install
 - [ ] join
