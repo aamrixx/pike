@@ -31,7 +31,7 @@ Some programs are not complete yet but will be in the future.<br>
 - [ ] dircolors
 - [ ] dirname
 - [ ] du
-- [ ] echo
+- [x] echo
 - [ ] env
 - [ ] expand-common
 - [ ] expand
