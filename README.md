@@ -58,10 +58,7 @@ Some programs are not complete yet but will be in the future.<br>
 - [ ] ln
 - [ ] logname
 - [ ] longlong
-- [ ] ls-dir
-- [ ] ls-ls
-- [ ] ls-vdir
-- [ ] ls
+- [x] ls
 - [ ] make-prime-list
 - [ ] mkdir
 - [ ] mkfifo
@@ -80,7 +77,6 @@ Some programs are not complete yet but will be in the future.<br>
 - [ ] pinky
 - [ ] pr
 - [ ] printenv
-- [ ] printf
 - [ ] prog-fprintf
 - [ ] ptx
 - [x] pwd
