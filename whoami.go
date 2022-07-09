@@ -10,13 +10,13 @@ import (
 func main() {
 	if len(os.Args) != 1 {
 		fmt.Printf("whoami : no operands required\n")
-		os.Exit(1)
+		return
 	}
 
 	currentUser, err := user.Current()
 	if err != nil {
-		log.Fatal(err.Error())
-		os.Exit(1)
+		log.Fatal(err)
+		return
 	}
 
 	fmt.Printf("%s\n", currentUser.Username)

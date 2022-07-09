@@ -15,19 +15,19 @@ import (
 func main() {
 	if len(os.Args) != 3 {
 		fmt.Printf("chmod : expected 2 operands (file and mode)\n")
-		os.Exit(1)
+		return
 	}
 
 	mode, err := strconv.ParseUint(os.Args[2], 10, 32)
 	if err != nil {
-		log.Fatal(err.Error())
-		os.Exit(1)
+		log.Fatal(err)
+		return
 	}
 
 	err = syscall.Chmod(os.Args[1], uint32(mode))
 	if err != nil {
-		log.Fatal(err.Error())
-		os.Exit(1)
+		log.Fatal(err)
+		return
 	}
 
 	fmt.Printf("%s -> %s\n", os.Args[1], os.Args[2])

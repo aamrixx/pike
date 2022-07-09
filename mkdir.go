@@ -9,12 +9,12 @@ import (
 func main() {
 	if len(os.Args) != 2 {
 		fmt.Printf("mkdir : 1 operand required\n")
-		os.Exit(1)
+		return
 	}
 
 	if err := os.Mkdir(os.Args[1], os.ModePerm); err != nil {
-		log.Fatal(err.Error())
-		os.Exit(1)
+		log.Fatal(err)
+		return
 	}
 
 	fmt.Printf("created directory '%s'\n", os.Args[1])

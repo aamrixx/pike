@@ -18,13 +18,13 @@ func main() {
 
 	f, err := os.Open(os.Args[1])
     if err != nil {
-        log.Fatal(err.Error())
+        log.Fatal(err)
         return
     }
 
     files, err := f.Readdir(0)
     if err != nil {
-        log.Fatal(err.Error())
+        log.Fatal(err)
         return
     }
 

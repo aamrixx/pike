@@ -6,7 +6,7 @@ This is not meant to be serious just for fun.<br>
 Some programs are not complete yet but will be in the future.<br>
 
 # Status
-Total done : 6
+Total done : 7
 - [ ] basename
 - [ ] basenc
 - [ ] cat
@@ -32,7 +32,7 @@ Total done : 6
 - [ ] dircolors
 - [ ] dirname
 - [ ] du
-- [ ] echo
+- [x] echo
 - [ ] env
 - [ ] expand-common
 - [ ] expand
