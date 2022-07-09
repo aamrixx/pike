@@ -6,3 +6,4 @@ build:
 	go build chmod.go
 	go build whoami.go
 	go build echo.go
+	go build date.go

@@ -6,7 +6,7 @@ This is not meant to be serious just for fun.<br>
 Some programs are not complete yet but will be in the future.<br>
 
 # Status
-Total done : 7
+Total done : 8
 - [ ] basename
 - [ ] basenc
 - [ ] cat
@@ -25,7 +25,7 @@ Total done : 7
 - [ ] crctab
 - [ ] csplit
 - [ ] cut
-- [ ] date
+- [x] date
 - [ ] dd
 - [ ] df
 - [ ] digest
