@@ -19,8 +19,6 @@ Total done : 9
 - [ ] cksum
 - [ ] cksum_pclmul
 - [ ] comm
-- [ ] copy
-- [ ] cp-hash
 - [ ] cp
 - [ ] crctab
 - [ ] csplit
