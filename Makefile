@@ -7,3 +7,4 @@ build:
 	go build whoami.go
 	go build echo.go
 	go build date.go
+	go build basename.go

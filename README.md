@@ -6,8 +6,8 @@ This is not meant to be serious just for fun.<br>
 Some programs are not complete yet but will be in the future.<br>
 
 # Status
-Total done : 8
-- [ ] basename
+Total done : 9
+- [x] basename
 - [ ] basenc
 - [ ] cat
 - [ ] chcon
