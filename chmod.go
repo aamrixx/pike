@@ -1,3 +1,7 @@
+// Currently this implementation
+// Does change perms but does it under
+// root I think.
+
 package main
 
 import (
