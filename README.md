@@ -31,7 +31,7 @@ Some programs are not complete yet but will be in the future.<br>
 - [ ] dircolors
 - [ ] dirname
 - [ ] du
-- [x] echo
+- [ ] echo
 - [ ] env
 - [ ] expand-common
 - [ ] expand
@@ -46,8 +46,8 @@ Some programs are not complete yet but will be in the future.<br>
 - [ ] group-list
 - [ ] groups
 - [ ] head
-- [ ] hostid
-- [x] hostname
+- [x] hostid
+- [ ] hostname
 - [ ] id
 - [ ] install
 - [ ] join
@@ -58,7 +58,7 @@ Some programs are not complete yet but will be in the future.<br>
 - [ ] ln
 - [ ] logname
 - [ ] longlong
-- [x] ls
+- [ ] ls
 - [ ] make-prime-list
 - [ ] mkdir
 - [ ] mkfifo
