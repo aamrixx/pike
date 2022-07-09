@@ -6,7 +6,7 @@ This is not meant to be serious just for fun.<br>
 Some programs are not complete yet but will be in the future.<br>
 
 # Status
-Total done : 3
+Total done : 5
 - [ ] basename
 - [ ] basenc
 - [ ] cat
@@ -61,7 +61,7 @@ Total done : 3
 - [ ] longlong
 - [ ] ls
 - [ ] make-prime-list
-- [ ] mkdir
+- [x] mkdir
 - [ ] mkfifo
 - [ ] mknod
 - [ ] mktemp
@@ -85,7 +85,7 @@ Total done : 3
 - [ ] realpath
 - [ ] relpath
 - [ ] remove
-- [ ] rm
+- [x] rm
 - [ ] rmdir
 - [ ] runcon
 - [ ] selinux
