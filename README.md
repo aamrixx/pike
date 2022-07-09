@@ -6,7 +6,7 @@ This is not meant to be serious just for fun.<br>
 Some programs are not complete yet but will be in the future.<br>
 
 # Status
-Total done : 5
+Total done : 6
 - [ ] basename
 - [ ] basenc
 - [ ] cat
@@ -59,7 +59,7 @@ Total done : 5
 - [ ] ln
 - [ ] logname
 - [ ] longlong
-- [ ] ls
+- [x] ls
 - [ ] make-prime-list
 - [x] mkdir
 - [ ] mkfifo
