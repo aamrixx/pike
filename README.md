@@ -1,4 +1,4 @@
-# pike
+# pike - non posix
 A little project to rewrite all coreutils in Go for fun. It also aims to not overcomplicate the programs with arguments and keep them simple.
 
 # Goal
