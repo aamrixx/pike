@@ -6,7 +6,7 @@ This is not meant to be serious just for fun.<br>
 Some programs are not complete yet but will be in the future.<br>
 
 # Status
-Total done : 10
+Total done : 11
 - [x] basename
 - [ ] basenc
 - [ ] cat
@@ -50,7 +50,7 @@ Total done : 10
 - [ ] id
 - [ ] install
 - [ ] join
-- [ ] kill
+- [x] kill
 - [ ] lbracket
 - [ ] libstdbuf
 - [ ] link
