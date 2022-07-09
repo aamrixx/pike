@@ -6,13 +6,13 @@ This is not meant to be serious just for fun.<br>
 Some programs are not complete yet but will be in the future.<br>
 
 # Status
-Total done : 2
+Total done : 3
 - [ ] basename
 - [ ] basenc
 - [ ] cat
 - [ ] chcon
 - [ ] chgrp
-- [ ] chmod
+- [x] chmod
 - [ ] chown-core
 - [ ] chown
 - [ ] chroot
