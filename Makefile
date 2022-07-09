@@ -8,3 +8,4 @@ build:
 	go build echo.go
 	go build date.go
 	go build basename.go
+	go build cp.go

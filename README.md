@@ -6,7 +6,7 @@ This is not meant to be serious just for fun.<br>
 Some programs are not complete yet but will be in the future.<br>
 
 # Status
-Total done : 9
+Total done : 10
 - [x] basename
 - [ ] basenc
 - [ ] cat
@@ -19,7 +19,7 @@ Total done : 9
 - [ ] cksum
 - [ ] cksum_pclmul
 - [ ] comm
-- [ ] cp
+- [x] cp
 - [ ] crctab
 - [ ] csplit
 - [ ] cut

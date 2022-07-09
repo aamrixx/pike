@@ -30,5 +30,5 @@ func main() {
 		return
 	}
 
-	fmt.Printf("%s -> %s\n", os.Args[1], os.Args[2])
+	fmt.Printf("set '%s' mode to '%s'\n", os.Args[1], os.Args[2])
 }
