@@ -1,5 +1,5 @@
 # pike - non posix
-A little project to rewrite all coreutils in Go for fun. It also aims to not overcomplicate the programs with arguments and keep them simple. This is a non-POSIX project
+A little project to rewrite coreutils in Go for fun. It also aims to not overcomplicate the programs with arguments and keep them simple. This is a non-POSIX project
 
 # Goal
 This is not meant to be serious just for fun.<br>
